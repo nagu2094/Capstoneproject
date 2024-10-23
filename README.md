@@ -116,18 +116,12 @@
     Password: 12345678A@
     ```
 
-
-## Overview
-By working through the lessons in this course, you've learned the necessary skills and knowledge to develop back-end APIs for the Little Lemon project. You were provided with code snippets and your task was to use these, plus any of your own code, to complete an API project for the Little Lemon restaurant.
-
-You will now take part in a peer-review exercise in which you will submit your completed APIs for two of your peers to review. You will also be required to review two of your peers' projects.
-
 Detailed criteria are covered in the grading criteria overview below.
 Review criteria
 less 
-When you submit your assignment, other learners in the course will review and grade your work. These are the criteria they’ll use to evaluate your APIs.
+When I submit this assignment, other learners in the course will review and grade your work. These are the criteria they’ll use to evaluate your APIs.
 
-In this project, your APIs need to make it possible for your end-users to perform certain tasks and your reviewer will be looking for the following functionalities.
+In this project, your APIs need to make it possible for your end-users to perform certain tasks and the reviewer will be looking for the following functionalities.
 
 1.	The admin can assign users to the manager group
 
@@ -171,22 +165,6 @@ In this project, your APIs need to make it possible for your end-users to perfor
 
 21.	Customers can browse their own orders
 
-You'll also need to give feedback on and grade the assignments of two other learners using the same criteria.
-Example Submissions
-less 
-Here are some examples to help you understand what your assignment should look like.
-
- Browsing menu-items endpoint using the browser:  
-
- How to create and submit your assignment
-less 
-You need to use pipenv to create the virtual environment and to manage the dependencies. Your APIs should be created using Django, DRF and Djoser. You need to use SQLite as the database for this project. You can develop your APIs using VS Code and test them using your browser or Insomnia. 
-
-Name the project directory LittleLemon and the app LittleLemonAPI. Ensure that you follow this naming convention to make the reviewing process easier. 
-
-You will be required to submit your APIs by uploading a zipped folder that contains your code. 
-
-Important note: Include the sqlite database file db.sqlite3 in your project submission and share the superuser’s username and password of all the other users you have created. Write these usernames and passwords in a notes.txt file and keep it inside the project directory and then zip the project. 
 
 To learn more about how to zip and unzip folders visit the 
 Mac
